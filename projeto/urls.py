@@ -17,9 +17,6 @@ from http.client import HTTPResponse
 from django.contrib import admin
 from django.urls import path, include
 from django.http import HttpResponse
-from recipes.views import contato
-from recipes.views import about
-
 
 
 
